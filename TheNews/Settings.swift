@@ -2,7 +2,7 @@
 //  Settings.swift
 //  TheNews
 //
-//  Created by Kushagra & jaskirat on 4/2/22.
+//  Created by Naresh on 11/23/22.
 //
 
 import Foundation

@@ -1,7 +1,7 @@
 //
 //  NewsApiModel.swift
 //
-//  Created by Kushagra & jaskirat on 4/2/22.
+//  Created by Manoj Reddy  on 11/28/22.
 //
 
 import Foundation
