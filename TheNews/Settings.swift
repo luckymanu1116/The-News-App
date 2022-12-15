@@ -9,6 +9,8 @@ import Foundation
 
 struct Settings {
     static var shared = Settings()
+    
+    // ENABLING THE CATEGORY SECTION AND SETTING SECTION 
 
     static let StyleKey = "style"
     static let CategoryKey = "category"

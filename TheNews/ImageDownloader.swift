@@ -10,7 +10,7 @@ class ImageDownloader {
 
     private var imageCache = NSCache<AnyObject, UIImage>()
     private let debug = false
-
+// FUNCTION TO LOAD IMAGES FROM THE API'S
     func load(url: URL,
               size: CGSize? = nil,
               tag: Int,
@@ -36,6 +36,7 @@ class ImageDownloader {
 }
 
 private extension ImageDownloader {
+    //IMAGE DOWNLOADER
 
     static func key(urlString: String, size: CGSize?) -> AnyObject {
         var key = urlString
