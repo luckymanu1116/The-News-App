@@ -10,6 +10,8 @@ struct Headline: Codable {
     var articles: [Article]
 }
 
+//API MODEL
+
 struct Article: Codable {
     var author: String?
     var title: String?
